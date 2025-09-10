@@ -15,8 +15,8 @@
 const portfolioConfig = {
     // ===== INFORMAÇÕES PESSOAIS =====
     pessoal: {
-        nome: "Seu Nome Completo",
-        titulo: "Desenvolvedor Frontend", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
+        nome: "Arthur Rolemberg dos Santos",
+        titulo: "Desenvolvedor Full Stack", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
         descricao: "Apaixonado por tecnologia e sempre em busca de novos desafios. Especializado em criar experiências digitais incríveis.",
         
         // Sua foto de perfil (coloque na pasta 'assets/images/')
@@ -31,13 +31,13 @@ const portfolioConfig = {
 
     // ===== CONTATOS E REDES SOCIAIS =====
     contatos: {
-        email: "seuemail@exemplo.com",
-        telefone: "+55 (11) 99999-9999",
-        linkedin: "https://linkedin.com/in/seuperfil",
-        github: "https://github.com/seuusuario",
-        instagram: "https://instagram.com/seuusuario", // Opcional
-        twitter: "https://twitter.com/seuusuario", // Opcional
-        website: "https://seusite.com", // Opcional
+        email: "arthurrolemberg4262@gmailcom",
+        telefone: "+55 (11) 94319-1530",
+        linkedin: "https://www.linkedin.com/in/arthur-rolemberg-890881233/",
+        github: "https://github.com/Massivo5040",
+        //instagram: "https://instagram.com/seuusuario", // Opcional
+        //twitter: "https://twitter.com/seuusuario", // Opcional
+        //website: "https://seusite.com", // Opcional
     },
 
     // ===== SOBRE VOCÊ =====
@@ -50,7 +50,6 @@ const portfolioConfig = {
         
         // Suas principais qualidades/características
         qualidades: [
-            "Criativo e inovador",
             "Trabalho em equipe",
             "Resolução de problemas",
             "Aprendizado contínuo",
@@ -62,11 +61,13 @@ const portfolioConfig = {
     habilidades: [
         // Tecnologias que você domina
         { nome: "HTML5", tempoExperiencia: "3 anos", nivel: "Avançado", icone: "fab fa-html5", cor: "#E34F26" },
-        { nome: "CSS3", tempoExperiencia: "2 anos", nivel: "Intermediário", icone: "fab fa-css3-alt", cor: "#1572B6" },
+        { nome: "CSS3", tempoExperiencia: "3 anos", nivel: "Avançado", icone: "fab fa-css3-alt", cor: "#1572B6" },
         { nome: "JavaScript", tempoExperiencia: "2 anos", nivel: "Intermediário", icone: "fab fa-js-square", cor: "#F7DF1E" },
         { nome: "React", tempoExperiencia: "1 ano", nivel: "Intermediário", icone: "fab fa-react", cor: "#61DAFB" },
+        { nome: "React Native", tempoExperiencia: "1 ano", nivel: "Iniciante", icone: "fab fa-react", cor: "#1cb1dbff" },
         { nome: "Node.js", tempoExperiencia: "8 meses", nivel: "Iniciante", icone: "fab fa-node-js", cor: "#339933" },
-        { nome: "Git", tempoExperiencia: "2 anos", nivel: "Intermediário", icone: "fab fa-git-alt", cor: "#F05032" },
+        { nome: "Git", tempoExperiencia: "2 anos", nivel: "Iniciante", icone: "fab fa-git-alt", cor: "#F05032" },
+        { nome: "Angular", tempoExperiencia: "1 ano", nivel: "Intermediário", icone: "fa-brands fa-angular", cor: "#e92222ff" },
         
         // Adicione mais habilidades copiando a estrutura acima
         // { nome: "Python", tempoExperiencia: "6 meses", nivel: "Iniciante", icone: "fab fa-python", cor: "#3776AB" },
